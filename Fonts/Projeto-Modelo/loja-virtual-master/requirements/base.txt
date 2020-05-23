@@ -1,0 +1,12 @@
+dj-database-url==0.4.1
+Django==1.11.28
+django-widget-tweaks==1.4.1
+django-watson==1.3.0
+easy-thumbnails==2.3
+gunicorn==19.6.0
+model-mommy==1.2.6
+six==1.10.0
+whitenoise==3.2.1
+pagseguro==0.3.2
+django-paypal==0.3.3
+Pillow==6.2.0
