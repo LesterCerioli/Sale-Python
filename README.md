@@ -11,6 +11,7 @@ Criação das Interfaces:
 
 <img src="https://hackernoon.com/hn-images/1*YVxaXqiIYskqPauNKZ2OSA.png">
 
+#Obs: em lugar no NET Core será usado o Python
 
 <img src="https://drive.google.com/file/d/147AHuQvl81BNq-OU_Ac8oOQJ7_W7LPo9/view?usp=sharing>
 
