@@ -9,5 +9,8 @@ Criação das Interfaces:
 
 1- IBaseRepository.cs 2- ICidadesRepository.cs 3 - IEntradaProdutoRepository.cs 4- IEstadoRepository.cs 5- IFornecedorRepository.cs 6- IGrupoProdutoRepository.cs 7- IInventarioEstoqueRepository.cs 8- ILocalArmazenamentoRepository.cs 9- IMarcaProdutoRepository.cs 10- IPaisRepository.cs 11- IPerfilRepository.cs 12- IProdutoRepository.cs 13- IPedidoRepository.cs 14- IItemPedidoRepository.cs 15- ISaidaProdutoRepository.cs 16- ITipoRepository.cs 17- IUnidadeMedidaRepository.cs 18- IUsuarioRepository.cs
 
+<img src="https://hackernoon.com/hn-images/1*YVxaXqiIYskqPauNKZ2OSA.png">
+
+
 <img src="https://drive.google.com/file/d/147AHuQvl81BNq-OU_Ac8oOQJ7_W7LPo9/view?usp=sharing>
 
